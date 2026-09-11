@@ -1,4 +1,4 @@
-<img width = 100% src="https://github.com/WassalAlotaibi/WassalAlotaibi/blob/main/wassal_Banner.png" alt="github banner"/>
+<img width = 100% src="https://github.com/WassalAlotaibi/WassalAlotaibi/blob/main/WASSAL ALOTAIBI.png" alt="github banner"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=6495ED&duration=4000&lines=Hello+World!;+I'm+Wassal+Alotaibi!;" />
 </h1>
