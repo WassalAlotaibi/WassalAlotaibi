@@ -3,25 +3,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=C084FC&duration=4000&lines=Hello+World!;+I'm+Wassal+Alotaibi!;" />
 </h1>
 
-### AI Senior Engineer specializing in:
+### Artificial Intelligence Graduate with experience in:
 
-🤖 Machine Learning & Deep Learning
-
-👁️ Computer Vision
-
-🦾 Robotics Applications
-
-📊 Data Analysis
-
+🤖 Machine Learning & Deep Learning  
+👁️ Computer Vision  
+🧠 NLP & Generative AI  
+🔎 RAG & Multimodal AI  
+📊 Data Analysis  
 
 ### 🚀 What I Do
-I have hands-on experience across the AI development lifecycle, including:
 
-Data preprocessing
-
-Model design & training
-
-Evaluation & deployment
+- Data preprocessing and model development
+- Machine Learning and Deep Learning training
+- NLP, Computer Vision, and multimodal AI
+- RAG and Generative AI applications
+- API integration and end-to-end AI systems
 
 ### ✨ Mission
 I’m passionate about continuous learning and innovation—combining technical skills, critical thinking, and collaboration to deliver impactful, data-driven solutions.
